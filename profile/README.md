@@ -2,7 +2,8 @@ Odeuropa is a European research project which bundles expertise in sensory minin
 
 More info at https://odeuropa.eu/
 
-👃 The list of repositories with their own description can be found in the [index](./profile/INDEX.md).
+📃 The list of repositories with their own description can be found in the [index](./profile/INDEX.md).
+*Feel free to sniff around!* 👃
 
 
 <img src="./profile/eu-logo.png" width="80" height="54" align="left" alt="EU logo" />
